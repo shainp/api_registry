@@ -1,0 +1,12 @@
+{
+  "name": "API-DB",
+  "version": "1.0.0",
+  "description": "Express.js application for purpose of building a REST API for API's",
+  "author": "Jisha Krishnankutty",
+  "license": "Copyright © 201 TATA Consultancy Services Pvt. Ltd.",
+  "dependencies": {
+    "body-parser": "1.10.2",
+    "express": "4.11.1",
+    "pg": "4.2.0"
+  }
+}
